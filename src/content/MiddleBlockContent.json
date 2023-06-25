@@ -1,6 +1,6 @@
 {
-    "title": "Introduce your product quickly & effectively",
-    "text": "Landy comes with multi-lingual support, all of the content is stored in the JSON files, so that you can manage the texts without having any prior knowledge in developing web applications using React.js.",
-    "button": "Get started"
+    "title":  "QuizHub, your AI-powered educational companion",
+    "text": "QuizHub adapts to your progress and skill level, providing targeted practice questions that help prepare for exams. Whether you're preparing for a crucial exam or simply seeking to reinforce your understanding of a particular subject, QuizHub offer practice tests to suit your requirements.",
+    "button": "Launch"
   }
   

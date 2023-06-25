@@ -1,15 +1,15 @@
 {
   "title": "Light, fast & responsive",
-  "text": "This template is ready to use, so you don't need to change anything at a component level, unless you want to customize the default styling.",
+  "text": "Powered by ChatGPT, a well known AI tool, QuizHub has lightning fast response times times to help you be more efficient when studying.",
   "section": [
     {
-      "title": "Why Antd?",
-      "content": "Ant Design is a React UI library that has a lot of easy-to-use components for building elegant UI.",
+      "title": "Why QuizHub?",
+      "content": "QuizHub is a simple tool to help you study for tests efficiently without having to take time searching for questions.",
       "icon": "notes.svg"
     },
     {
-      "title": "Why styled-components?",
-      "content": "Styled Components gives you total control over your components.",
+      "title": "Why ChatGPT?",
+      "content": "ChatGPT already helps students with school, so we know that it works well. QuizHub amplifies and filters ChatGPT to get rid of false answers and misc. responses",
       "icon": "notes.svg"
     }
   ]
